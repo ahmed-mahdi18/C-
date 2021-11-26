@@ -1,2 +1,2 @@
 # C++
-C++ assignments
+C++ code
